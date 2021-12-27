@@ -1,0 +1,20 @@
+## High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)
+|:---:|:---:|:---:|
+|HLR-1| System shall be able to read the excel sheet. |Implemented|
+|HLR-2| The system shall able to store the output. |Implemented|
+|HLR-3| The system shall able to identify whether the student(s) is present for the day. |Implemented|
+|HLR-4| The system shall able to plot bar graph. |Implemented|
+
+
+##  Low level Requirements:
+
+| ID | Description | Status (Implemented/Future)
+|:---:|:---:|:---:|
+|LLR-1| System shall be able to read the total number of students given in the spreadsheet. |Implemented|
+|LLR-2| System shall be able to read the total number of Days given in the spreadsheet |Implemented|
+|LLR-3| User shall be able to view the output. |Implemented|
+|LLR-4| The system should able to mark TRUE if the student is Present. |Implemented|
+|LLR-5| The system should able to mark FALSE if the student is Present. |Implemented|
+|LLR-6| The system should able to plot the bar graph which contains both present and absentees. |Implemented|
